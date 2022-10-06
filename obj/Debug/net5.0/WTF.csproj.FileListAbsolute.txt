@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\WTF\WTF\bin\Debug\net5.0\WTF.exe
+C:\Users\USER\source\repos\WTF\WTF\bin\Debug\net5.0\WTF.deps.json
+C:\Users\USER\source\repos\WTF\WTF\bin\Debug\net5.0\WTF.runtimeconfig.json
+C:\Users\USER\source\repos\WTF\WTF\bin\Debug\net5.0\WTF.runtimeconfig.dev.json
+C:\Users\USER\source\repos\WTF\WTF\bin\Debug\net5.0\WTF.dll
+C:\Users\USER\source\repos\WTF\WTF\bin\Debug\net5.0\ref\WTF.dll
+C:\Users\USER\source\repos\WTF\WTF\bin\Debug\net5.0\WTF.pdb
+C:\Users\USER\source\repos\WTF\WTF\obj\Debug\net5.0\WTF.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WTF\WTF\obj\Debug\net5.0\WTF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\WTF\WTF\obj\Debug\net5.0\WTF.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\WTF\WTF\obj\Debug\net5.0\WTF.AssemblyInfo.cs
+C:\Users\USER\source\repos\WTF\WTF\obj\Debug\net5.0\WTF.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WTF\WTF\obj\Debug\net5.0\WTF.dll
+C:\Users\USER\source\repos\WTF\WTF\obj\Debug\net5.0\ref\WTF.dll
+C:\Users\USER\source\repos\WTF\WTF\obj\Debug\net5.0\WTF.pdb
+C:\Users\USER\source\repos\WTF\WTF\obj\Debug\net5.0\WTF.genruntimeconfig.cache
