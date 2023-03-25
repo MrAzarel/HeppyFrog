@@ -8,18 +8,25 @@ namespace HeppyFrog
 {
     internal class Tile : IPoolable
     {
+        public bool iWasCreatedByPool { get; private set; }
+
         public static char[] tileTypes = { '#', '_' };
 
         public char tile;
         public int tileWidth = 15;
         public int tileHeight;
 
+        public void SetBool(bool WasCreatedByPool)
+        {
+            this.iWasCreatedByPool = WasCreatedByPool;
+        }
+
         public Tile(char tile)
         {
             this.tile = tile;
             this.tileHeight = 119;
         }
-
+        
         public void ResetState()
         {
             var rand = new Random();

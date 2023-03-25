@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 namespace HeppyFrog
 {
     internal interface IPoolable
-    {
+    { 
+        public bool iWasCreatedByPool { get;}
         void ResetState();
     }
 }

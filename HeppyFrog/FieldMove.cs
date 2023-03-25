@@ -17,7 +17,7 @@ namespace HeppyFrog
             CreatField(objectPool, tiles);
             while (true)
             {
-                Thread.Sleep(100);
+                Thread.Sleep(50);
                 if (tiles[0].tileHeight == 0)
                 {
                     objectPool.ReturnObject(ref tiles[0]);

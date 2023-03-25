@@ -10,7 +10,9 @@ namespace HeppyFrog
     {
         Tile IPoolObjectCreator<Tile>.Create()
         { 
-            return new Tile(' ');
+            Tile tile = new Tile(' ');
+            tile.SetBool(true);
+            return tile;
         }
     }
 }

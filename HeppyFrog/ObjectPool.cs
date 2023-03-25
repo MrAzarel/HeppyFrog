@@ -38,9 +38,12 @@ namespace HeppyFrog
 
         public void ReturnObject(ref T obj)
         {
-            obj.ResetState();
-            this._container.Add(obj);
-            obj = null;
+            if (obj.iWasCreatedByPool)
+            {
+                obj.ResetState();
+                this._container.Add(obj);
+                obj = null;
+            }
         }
     }
 }

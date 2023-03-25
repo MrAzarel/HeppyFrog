@@ -14,6 +14,7 @@ namespace HeppyFrog
         {
             Thread thread = new Thread(() => FieldMove.Movment());
             thread.Start();
+            Thread.Sleep(500);
             SetTimer();
             while (true)
             {
