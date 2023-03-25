@@ -14,3 +14,5 @@ C:\Users\USER\source\repos\WTF\WTF\obj\Debug\net5.0\WTF.dll
 C:\Users\USER\source\repos\WTF\WTF\obj\Debug\net5.0\ref\WTF.dll
 C:\Users\USER\source\repos\WTF\WTF\obj\Debug\net5.0\WTF.pdb
 C:\Users\USER\source\repos\WTF\WTF\obj\Debug\net5.0\WTF.genruntimeconfig.cache
+C:\Users\arsen\Source\Repos\HeppyFrog\obj\Debug\net5.0\WTF.dll
+C:\Users\arsen\Source\Repos\HeppyFrog\obj\Debug\net5.0\WTF.pdb

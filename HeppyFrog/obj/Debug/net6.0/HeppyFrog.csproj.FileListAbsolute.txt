@@ -1,0 +1,15 @@
+C:\Users\arsen\source\repos\HeppyFrog\HeppyFrog\obj\Debug\net6.0\HeppyFrog.csproj.AssemblyReference.cache
+C:\Users\arsen\source\repos\HeppyFrog\HeppyFrog\obj\Debug\net6.0\HeppyFrog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsen\source\repos\HeppyFrog\HeppyFrog\obj\Debug\net6.0\HeppyFrog.AssemblyInfoInputs.cache
+C:\Users\arsen\source\repos\HeppyFrog\HeppyFrog\obj\Debug\net6.0\HeppyFrog.AssemblyInfo.cs
+C:\Users\arsen\source\repos\HeppyFrog\HeppyFrog\obj\Debug\net6.0\HeppyFrog.csproj.CoreCompileInputs.cache
+C:\Users\arsen\source\repos\HeppyFrog\HeppyFrog\bin\Debug\net6.0\HeppyFrog.exe
+C:\Users\arsen\source\repos\HeppyFrog\HeppyFrog\bin\Debug\net6.0\HeppyFrog.deps.json
+C:\Users\arsen\source\repos\HeppyFrog\HeppyFrog\bin\Debug\net6.0\HeppyFrog.runtimeconfig.json
+C:\Users\arsen\source\repos\HeppyFrog\HeppyFrog\bin\Debug\net6.0\HeppyFrog.dll
+C:\Users\arsen\source\repos\HeppyFrog\HeppyFrog\bin\Debug\net6.0\HeppyFrog.pdb
+C:\Users\arsen\source\repos\HeppyFrog\HeppyFrog\obj\Debug\net6.0\HeppyFrog.dll
+C:\Users\arsen\source\repos\HeppyFrog\HeppyFrog\obj\Debug\net6.0\refint\HeppyFrog.dll
+C:\Users\arsen\source\repos\HeppyFrog\HeppyFrog\obj\Debug\net6.0\HeppyFrog.pdb
+C:\Users\arsen\source\repos\HeppyFrog\HeppyFrog\obj\Debug\net6.0\HeppyFrog.genruntimeconfig.cache
+C:\Users\arsen\source\repos\HeppyFrog\HeppyFrog\obj\Debug\net6.0\ref\HeppyFrog.dll

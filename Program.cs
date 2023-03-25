@@ -4,8 +4,6 @@ using System.Threading;
 
 namespace WTF
 {
-    
-
     class Program
     {
         static void Main(string[] args)
